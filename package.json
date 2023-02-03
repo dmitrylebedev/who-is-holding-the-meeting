@@ -1,0 +1,23 @@
+{
+  "name": "who-is-holding-the-meeting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrylebedev/who-is-holding-the-meeting.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/dmitrylebedev/who-is-holding-the-meeting/issues"
+  },
+  "homepage": "https://github.com/dmitrylebedev/who-is-holding-the-meeting#readme",
+  "type": "module",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ora": "^6.1.2"
+  }
+}
